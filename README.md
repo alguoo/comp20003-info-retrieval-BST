@@ -7,8 +7,8 @@ Two of the operations of the BST dictionary explored in this assignment is the i
     * Randomly
     * Sorted
 2.	The method of handling insertions of duplicate keys
-    * Always placed as left child
-    * Points to a linked list of duplicates
+    * Always placed as left child (dict1)
+    * Points to a linked list of duplicates (dict2)
 
 See report for the analysis.
 
