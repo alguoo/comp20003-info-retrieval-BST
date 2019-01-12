@@ -8,6 +8,8 @@ From scratch, the following was created/implemented:
    * Tree freeing
 2. CSV reader/printer
 3. Optimisation: Dynamically allocated memory for arbitrarily long strings
+4. BST Dictionary
+   * Searching for data, outputting duplicated results
 
 # Experimentation
 Two of the operations of the BST dictionary explored in this assignment is the insertion and search time complexity. Two factors which can impact this is:
